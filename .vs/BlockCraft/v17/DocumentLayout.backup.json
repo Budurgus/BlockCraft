@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitRepositories\\BlockCraft\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7089E376-4012-EDCC-4B2D-B4E614090D8E}|Assembly-CSharp.csproj|D:\\GitRepositories\\BlockCraft\\assets\\scripts\\chunkrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7089E376-4012-EDCC-4B2D-B4E614090D8E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\chunkrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7089E376-4012-EDCC-4B2D-B4E614090D8E}|Assembly-CSharp.csproj|D:\\GitRepositories\\BlockCraft\\assets\\scripts\\scriptableobjects\\blockinfosides.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7089E376-4012-EDCC-4B2D-B4E614090D8E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scriptableobjects\\blockinfosides.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7089E376-4012-EDCC-4B2D-B4E614090D8E}|Assembly-CSharp.csproj|D:\\GitRepositories\\BlockCraft\\assets\\scripts\\scriptableobjects\\blockinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7089E376-4012-EDCC-4B2D-B4E614090D8E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scriptableobjects\\blockinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7089E376-4012-EDCC-4B2D-B4E614090D8E}|Assembly-CSharp.csproj|d:\\gitrepositories\\blockcraft\\assets\\scripts\\scriptableobjects\\terraingeterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7089E376-4012-EDCC-4B2D-B4E614090D8E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scriptableobjects\\terraingeterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7089E376-4012-EDCC-4B2D-B4E614090D8E}|Assembly-CSharp.csproj|D:\\GitRepositories\\BlockCraft\\assets\\scripts\\gameworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7089E376-4012-EDCC-4B2D-B4E614090D8E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7089E376-4012-EDCC-4B2D-B4E614090D8E}|Assembly-CSharp.csproj|D:\\GitRepositories\\BlockCraft\\assets\\scripts\\chunkdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7089E376-4012-EDCC-4B2D-B4E614090D8E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\chunkdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7089E376-4012-EDCC-4B2D-B4E614090D8E}|Assembly-CSharp.csproj|D:\\GitRepositories\\BlockCraft\\assets\\scripts\\scriptableobjects\\blockdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7089E376-4012-EDCC-4B2D-B4E614090D8E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scriptableobjects\\blockdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7089E376-4012-EDCC-4B2D-B4E614090D8E}|Assembly-CSharp.csproj|D:\\GitRepositories\\BlockCraft\\assets\\scripts\\blocktype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7089E376-4012-EDCC-4B2D-B4E614090D8E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\blocktype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7089E376-4012-EDCC-4B2D-B4E614090D8E}|Assembly-CSharp.csproj|D:\\GitRepositories\\BlockCraft\\assets\\worldshader.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{7089E376-4012-EDCC-4B2D-B4E614090D8E}|Assembly-CSharp.csproj|solutionrelative:assets\\worldshader.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7089E376-4012-EDCC-4B2D-B4E614090D8E}|Assembly-CSharp.csproj|D:\\GitRepositories\\BlockCraft\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7089E376-4012-EDCC-4B2D-B4E614090D8E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TerrainGeterator.cs",
+              "DocumentMoniker": "D:\\GitRepositories\\BlockCraft\\Assets\\Scripts\\ScriptableObjects\\TerrainGeterator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptableObjects\\TerrainGeterator.cs",
+              "ToolTip": "D:\\GitRepositories\\BlockCraft\\Assets\\Scripts\\ScriptableObjects\\TerrainGeterator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScriptableObjects\\TerrainGeterator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T16:44:54.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BlockDatabase.cs",
+              "DocumentMoniker": "D:\\GitRepositories\\BlockCraft\\Assets\\Scripts\\ScriptableObjects\\BlockDatabase.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptableObjects\\BlockDatabase.cs",
+              "ToolTip": "D:\\GitRepositories\\BlockCraft\\Assets\\Scripts\\ScriptableObjects\\BlockDatabase.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScriptableObjects\\BlockDatabase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T16:23:20.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\GitRepositories\\BlockCraft\\Assets\\Scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
+              "ToolTip": "D:\\GitRepositories\\BlockCraft\\Assets\\Scripts\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T17:55:48.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChunkData.cs",
+              "DocumentMoniker": "D:\\GitRepositories\\BlockCraft\\Assets\\Scripts\\ChunkData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ChunkData.cs",
+              "ToolTip": "D:\\GitRepositories\\BlockCraft\\Assets\\Scripts\\ChunkData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ChunkData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T14:07:30.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameWorld.cs",
+              "DocumentMoniker": "D:\\GitRepositories\\BlockCraft\\Assets\\Scripts\\GameWorld.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameWorld.cs",
+              "ToolTip": "D:\\GitRepositories\\BlockCraft\\Assets\\Scripts\\GameWorld.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameWorld.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAD4v08AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T14:08:43.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChunkRenderer.cs",
+              "DocumentMoniker": "D:\\GitRepositories\\BlockCraft\\Assets\\Scripts\\ChunkRenderer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ChunkRenderer.cs",
+              "ToolTip": "D:\\GitRepositories\\BlockCraft\\Assets\\Scripts\\ChunkRenderer.cs*",
+              "RelativeToolTip": "Assets\\Scripts\\ChunkRenderer.cs*",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAwwGIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T11:50:45.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BlockInfoSides.cs",
+              "DocumentMoniker": "D:\\GitRepositories\\BlockCraft\\Assets\\Scripts\\ScriptableObjects\\BlockInfoSides.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptableObjects\\BlockInfoSides.cs",
+              "ToolTip": "D:\\GitRepositories\\BlockCraft\\Assets\\Scripts\\ScriptableObjects\\BlockInfoSides.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScriptableObjects\\BlockInfoSides.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T16:06:08.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlockInfo.cs",
+              "DocumentMoniker": "D:\\GitRepositories\\BlockCraft\\Assets\\Scripts\\ScriptableObjects\\BlockInfo.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptableObjects\\BlockInfo.cs",
+              "ToolTip": "D:\\GitRepositories\\BlockCraft\\Assets\\Scripts\\ScriptableObjects\\BlockInfo.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScriptableObjects\\BlockInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T15:28:38.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WorldShader.shader",
+              "DocumentMoniker": "D:\\GitRepositories\\BlockCraft\\Assets\\WorldShader.shader",
+              "RelativeDocumentMoniker": "Assets\\WorldShader.shader",
+              "ToolTip": "D:\\GitRepositories\\BlockCraft\\Assets\\WorldShader.shader",
+              "RelativeToolTip": "Assets\\WorldShader.shader",
+              "ViewState": "AgIAABgAAAAAAAAAAAAswCEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2024-09-29T08:16:21.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BlockType.cs",
+              "DocumentMoniker": "D:\\GitRepositories\\BlockCraft\\Assets\\Scripts\\BlockType.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BlockType.cs",
+              "ToolTip": "D:\\GitRepositories\\BlockCraft\\Assets\\Scripts\\BlockType.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BlockType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T13:59:47.83Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
